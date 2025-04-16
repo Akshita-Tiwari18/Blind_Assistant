@@ -1,0 +1,10 @@
+BLINDAPP/
+├── main.py                   # Main Kivy UI file
+├── speech_module.py          # Speech recognition + response
+├── camera_module.py          # Camera handling (object/traffic detection)
+├── navigation_module.py      # GPS + direction voice commands
+├── alert.mp3                 # Traffic alert sound
+├── voice.mp3                 # Temporary file for voice
+├── assets/
+│   └── map_data/             # (Optional) Static map files if any
+└── requirements.txt          # Python libraries
